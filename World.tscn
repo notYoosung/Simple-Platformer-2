@@ -39,7 +39,7 @@ position = Vector2( 135, 90 )
 position = Vector2( 153, 90 )
 
 [node name="Block12" parent="." instance=ExtResource( 1 )]
-position = Vector2( 171, 90 )
+position = Vector2( 153, 108 )
 
 [node name="Block13" parent="." instance=ExtResource( 1 )]
 position = Vector2( 171, 108 )
